@@ -1,4 +1,4 @@
-layout: sidebar
+layout: stacked
 style: light
 
 plugins:
@@ -16,16 +16,16 @@ defaults:
     values:
       layout: "post"
 
-projects:
-  sort_by: pushed
+#projects:
+#  sort_by: pushed
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
-  exclude:
-    archived: false
-    forks: true
-    projects:
+#  limit: 9
+#  exclude:
+#    archived: false
+#    forks: true
+#    projects:
     # - repo-name
 
 # social_media:
@@ -47,12 +47,14 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: arXiv
+    web_url: https://arxiv.org/search/?searchtype=author&query=McNeill%2C+L+O
+    image_url: https://pbs.twimg.com/media/EcglfCHU4AA6-yj.png:large
 
-  - name: Web design
+  - name: Mathematica notebooks
+    image_url: https://community.wolfram.com//c/portal/getImageAttachment?filename=wolframwolf.png&userId=1340903
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Notes
+    image_url: https://prosportstickers.219signs.com/image/cache/catalog/product/homer_thinking_sticker__46595-500x500.jpg
+
+BASE_PATH : /mcneilllucy.github.io
