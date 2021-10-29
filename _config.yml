@@ -61,6 +61,10 @@ topics:
     web_url: https://github.com/mcneilllucy/mcneilllucy.github.io/tree/master/assets/notes
     image_url: https://prosportstickers.219signs.com/image/cache/catalog/product/homer_thinking_sticker__46595-500x500.jpg
 
+  - name: synapsis
+    web_url: http://bioconductor.org/packages/release/bioc/html/synapsis.html
+    image_url: https://github.com/mcneilllucy/synapsis/blob/master/Meta/synapsis_hexsticker.png
+
 
 
 BASE_PATH : /mcneilllucy.github.io
