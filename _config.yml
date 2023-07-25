@@ -51,7 +51,7 @@ defaults:
 topics:
   - name: arXiv
     web_url: https://arxiv.org/search/?searchtype=author&query=McNeill%2C+L+O
-    image_url: https://pbs.twimg.com/media/EcglfCHU4AA6-yj.png:large
+    image_url: /assets/images/arxiv-logo.png
 
   - name: Mathematica notebooks
     web_url: https://github.com/mcneilllucy/mcneilllucy.github.io/tree/master/assets/mathematica-notebooks
@@ -59,7 +59,7 @@ topics:
 
   - name: Notes
     web_url: https://github.com/mcneilllucy/mcneilllucy.github.io/tree/master/assets/notes
-    image_url: https://prosportstickers.219signs.com/image/cache/catalog/product/homer_thinking_sticker__46595-500x500.jpg
+    image_url: /assets/images/homer_thinking.jpg
 
   - name: synapsis
     web_url: http://bioconductor.org/packages/release/bioc/html/synapsis.html
