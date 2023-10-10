@@ -33,9 +33,13 @@ If you are a student or early career researcher currently applying for positions
 It is now a well-documented experience that minorities in physics are often socially isolated or discriminated by their peers based on their gender, e.g.:
 
 https://physics.aps.org/articles/v12/43
+
 https://journals.aps.org/prper/pdf/10.1103/PhysRevPhysEducRes.14.010146
+
 https://arxiv.org/pdf/2303.10105.pdf
+
 https://journals.aps.org/prper/pdf/10.1103/PhysRevPhysEducRes.12.020119
+
 https://www.newscientist.com/article/mg24032031-900-women-in-physics-why-theres-a-problem-and-how-we-can-solve-it/
 
 While Japanese universities and research institutes are already making efforts to make their faculty staff more gender diverse, the actual retention of students from high school to early career researcher level requires organised schemes.
@@ -45,3 +49,24 @@ In particular, we encourage staff with teaching duties to systematically contact
 The reason is that these students are far less likely to consider graduate school at all (possibly due to the relative social isolation), despite having the equivalently strong grades as their male counterparts.
 
 ## social events
+
+### Spring and Autumn physics workshops
+
+There are two main societies which members of this network participate in. They are:
+
+- Japan Physical Society (JPS)
+- Astronomical Society of Japan (ASJ)
+
+Annual autumn and spring meetings are held in September and March in different cities in Japan.
+On one of the evenings, we will organise a dinner in a convenient location to the conference. Emails will be sent to the mailing list in August and February respectively, so please make sure you fill out the form if you are attending the workshop in person and would like to join the dinner.
+
+### Social picnic
+
+Each year in early April, we currently organise sakura picnics in the following areas:
+
+- Kyoto
+- West Tokyo
+- Saitama
+
+All members and supporters of JNGEP are invited to attend. An email will be sent to the mailing list
+in February, so please make sure you fill out the form.
