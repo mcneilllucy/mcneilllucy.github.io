@@ -55,7 +55,7 @@ topics:
 
   - name: Mathematica notebooks
     web_url: https://github.com/mcneilllucy/mcneilllucy.github.io/tree/master/assets/mathematica-notebooks
-    image_url: https://community.wolfram.com//c/portal/getImageAttachment?filename=wolframwolf.png&userId=1340903
+    image_url: /assets/images/wolfram.png
 
   - name: Notes
     web_url: https://github.com/mcneilllucy/mcneilllucy.github.io/tree/master/assets/notes
