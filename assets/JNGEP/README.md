@@ -24,7 +24,7 @@ If you are a student or early career researcher currently applying for positions
 |          |            | (Physics)     | theory          | - industry jobs     |                          |
 |          |            |               |                 | - fellowships       |                          |
 |          |            |               |                 | - project postdocs  |                          |
-|☆☆☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆|
+|☆☆☆☆|☆☆☆☆☆|☆☆☆☆☆☆|☆☆☆☆☆☆|☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆☆|
 
 ## schemes to target gender equality in universities / research facilities
 
