@@ -8,7 +8,7 @@ This includes
 
 - establishing professional mentorships to encourage and support students in grad school / job applications
 - designing and implementing schemes to target gender equality at the faculty level
-- social events at annual spring and autumn ASJ and JPS meetings (and more casual events at the city/campus level)
+- social events at annual spring and autumn ASJ and JPS meetings (and more casual events at the city/campus level e.g. sakura picnics)
 - outreach talks targeting high school students at high schools, science museums etc.
 
 ## study and career guidance
@@ -26,6 +26,22 @@ If you are a student or early career researcher currently applying for positions
 |          |            |               |                 | - project postdocs  |                          |
 |☆☆☆☆☆☆|☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆☆☆☆|
 
+(* = available for undergraduate research project / graduate school / JSPS fellowship supervision consultations)
+
 ## schemes to target gender equality in universities / research facilities
+
+It is now a well-documented experience that minorities in physics are often socially isolated or discriminated by their peers based on their gender, e.g.:
+
+https://physics.aps.org/articles/v12/43
+https://journals.aps.org/prper/pdf/10.1103/PhysRevPhysEducRes.14.010146
+https://arxiv.org/pdf/2303.10105.pdf
+https://journals.aps.org/prper/pdf/10.1103/PhysRevPhysEducRes.12.020119
+https://www.newscientist.com/article/mg24032031-900-women-in-physics-why-theres-a-problem-and-how-we-can-solve-it/
+
+While Japanese universities and research institutes are already making efforts to make their faculty staff more gender diverse, the actual retention of students from high school to early career researcher level requires organised schemes.
+
+In particular, we encourage staff with teaching duties to systematically contact high achieving students who are minorities about considering applying for undergraduate research projects or graduate school. Or, if applicable, recommend or offer to introduce them to potential supervisors.
+
+The reason is that these students are far less likely to consider graduate school at all (possibly due to the relative social isolation), despite having the equivalently strong grades as their male counterparts.
 
 ## social events
