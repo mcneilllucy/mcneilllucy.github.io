@@ -65,6 +65,7 @@ On one of the evenings, we will organise a dinner in a convenient location to th
 Each year in early April, we currently organise sakura picnics in the following areas:
 
 - Kyoto
+<img src="/assets/images/arxiv-logo.png" alt="drawing" width="200"/>
 - West Tokyo
 - Saitama
 
