@@ -11,7 +11,7 @@ This includes
 - social events at annual spring and autumn ASJ and JPS meetings (and more casual events at the city/campus level e.g. sakura picnics)
 - outreach talks targeting high school students at high schools, science museums etc.
 
-**✴✴✴✴ Sign up [here](https://forms.gle/X6Ao1CzzXMpLyrpZ8) ✴✴✴✴**
+**✵✵✵✵Sign up [here](https://forms.gle/X6Ao1CzzXMpLyrpZ8) ✵✵✵✵**
 
 ## study and career guidance
 
