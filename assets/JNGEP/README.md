@@ -55,7 +55,7 @@ The reason is that these students are far less likely to consider graduate schoo
 There are two main societies which members of this network participate in. They are:
 
 - Japan Physical Society (JPS)
-<img src="/assets/images/jps-logo.png" alt="drawing" width="300"/>
+<img src="/assets/images/jps-logo.png" alt="drawing" width="500"/>
 - Astronomical Society of Japan (ASJ)
 <img src="/assets/images/asj-logo.png" alt="drawing" width="150"/><img src="/assets/images/asj-logo-2.png" alt="drawing" width="150"/>
 
