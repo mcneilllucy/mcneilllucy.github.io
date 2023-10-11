@@ -65,9 +65,13 @@ On one of the evenings, we will organise a dinner in a convenient location to th
 Each year in early April, we currently organise sakura picnics in the following areas:
 
 - Kyoto
-<img src="/assets/images/arxiv-logo.png" alt="drawing" width="200"/>
+<img src="/assets/images/kyoto.jpg" alt="drawing" width="150"/>
+
 - West Tokyo
+<img src="/assets/images/toyko.jpg" alt="drawing" width="150"/>
+
 - Saitama
+<img src="/assets/images/saitama.jpg" alt="drawing" width="150"/>
 
 All members and supporters of JNGEP are invited to attend. An email will be sent to the mailing list
 in February, so please make sure you fill out the form.
