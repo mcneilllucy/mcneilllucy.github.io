@@ -70,3 +70,12 @@ Each year in early April, we currently organise sakura picnics in the following 
 
 All members and supporters of JNGEP are invited to attend. An email will be sent to the mailing list
 in February, so please make sure you fill out the form.
+
+## outreach
+
+Even at the undergraduate level, women and gender diverse people are a minority, and this proportion decreases towards graduate school.
+
+We therefore organise public lectures by members at local high schools and museums.
+When women and gender diverse physicists are more publicly visible, and high school students can make contact with JNGEP, we hope that the gender-balance of students entering universities and continuing to study physics will increase.
+
+If you are a high school teacher or museum staff who is interested in facilitating a general-audience lecture in physics by a JNGEP member, please contact the organisers at jngep + -at sign- + proton.me
