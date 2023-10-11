@@ -55,7 +55,9 @@ The reason is that these students are far less likely to consider graduate schoo
 There are two main societies which members of this network participate in. They are:
 
 - Japan Physical Society (JPS)
+<img src="/assets/images/jps-logo.png" alt="drawing" width="150"/>
 - Astronomical Society of Japan (ASJ)
+<img src="/assets/images/asj-logo.png" alt="drawing" width="150"/>
 
 Annual autumn and spring meetings are held in September and March in different cities in Japan.
 On one of the evenings, we will organise a dinner in a convenient location to the conference. Emails will be sent to the mailing list in August and February respectively, so please make sure you fill out the form if you are attending the workshop in person and would like to join the dinner.
