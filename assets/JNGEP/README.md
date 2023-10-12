@@ -76,6 +76,10 @@ in February, so please make sure you fill out the form.
 
 ### Campus tea party or picnic during the masters course fair
 
+If your lab participates in the annual masters recruitment fair, you can help JNGEP's goal to improve retention by simply printing the following leaflet (which contains a QR code to the sign up page)
+
+* *If you are signed up as a member or supporter working in a University, we will send a reminder each year.*
+
 ## outreach
 
 Even at the undergraduate level, women and gender diverse people are a minority, and this proportion decreases towards graduate school.
