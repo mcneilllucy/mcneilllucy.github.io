@@ -93,6 +93,10 @@ When women and gender diverse physicists are more publicly visible, and high sch
 
 If you are a high school teacher or museum staff who is interested in facilitating a general-audience lecture in physics by a JNGEP member, please contact the organisers at jngep + -at sign- + proton.me
 
+## External links
+
+Kyoto University Gender Equality promotion centre [mentorships](https://www.cwr.kyoto-u.ac.jp/support/consult/mentor/)
+
 ## references
 
 [1] https://physics.aps.org/articles/v12/43
