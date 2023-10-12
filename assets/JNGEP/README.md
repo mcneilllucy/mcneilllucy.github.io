@@ -32,21 +32,13 @@ If you are a student or early career researcher currently applying for positions
 
 ## schemes to target gender equality in universities / research facilities
 
-It is now a well-documented experience that minorities in physics are often socially isolated or discriminated by their peers based on their gender, e.g.:
-
-https://physics.aps.org/articles/v12/43
-
-https://journals.aps.org/prper/pdf/10.1103/PhysRevPhysEducRes.14.010146
-
-https://arxiv.org/pdf/2303.10105.pdf
-
-https://journals.aps.org/prper/pdf/10.1103/PhysRevPhysEducRes.12.020119
-
-https://www.newscientist.com/article/mg24032031-900-women-in-physics-why-theres-a-problem-and-how-we-can-solve-it/
+It is now a well-documented experience that minorities in physics are often socially isolated or discriminated by their peers based on their gender, e.g [1-5]
 
 While Japanese universities and research institutes are already making efforts to make their faculty staff more gender diverse, the actual retention of students from high school to early career researcher level requires organised schemes.
 
-In particular, we encourage staff with teaching duties to systematically contact high achieving students who are minorities about considering applying for undergraduate research projects or graduate school. Or, if applicable, recommend or offer to introduce them to potential supervisors.
+### Increasing the number of students enrolling in masters courses
+
+We encourage staff with teaching duties to systematically contact high achieving students in their undergraduate courses who are minorities, about considering applying for undergraduate research projects or graduate school. Or, if applicable, recommend or offer to introduce them to potential supervisors.
 
 The reason is that these students are far less likely to consider graduate school at all (possibly due to the relative social isolation), despite having the equivalently strong grades as their male counterparts.
 
@@ -64,6 +56,8 @@ There are two main societies which members of this network participate in. They 
 Annual autumn and spring meetings are held in September and March in different cities in Japan.
 On one of the evenings, we will organise a dinner in a convenient location to the conference. Emails will be sent to the mailing list in August and February respectively, so please make sure you fill out the form if you are attending the workshop in person and would like to join the dinner.
 
+* *In the event that a meeting is held online, we will arrange dinners in various cities anyway*
+
 ### Social picnic
 
 Each year in early April, we currently organise sakura picnics in the following areas:
@@ -80,11 +74,27 @@ Each year in early April, we currently organise sakura picnics in the following 
 All members and supporters of JNGEP are invited to attend. An email will be sent to the mailing list
 in February, so please make sure you fill out the form.
 
+### Campus tea party or picnic during the masters course fair
+
 ## outreach
 
 Even at the undergraduate level, women and gender diverse people are a minority, and this proportion decreases towards graduate school.
+
+### public lectures aimed at high school students
 
 We therefore organise public lectures by members at local high schools and museums.
 When women and gender diverse physicists are more publicly visible, and high school students can make contact with JNGEP, we hope that the gender-balance of students entering universities and continuing to study physics will increase.
 
 If you are a high school teacher or museum staff who is interested in facilitating a general-audience lecture in physics by a JNGEP member, please contact the organisers at jngep + -at sign- + proton.me
+
+## references
+
+[1] https://physics.aps.org/articles/v12/43
+
+[2] https://journals.aps.org/prper/pdf/10.1103/PhysRevPhysEducRes.14.010146
+
+[3] https://arxiv.org/pdf/2303.10105.pdf
+
+[4] https://journals.aps.org/prper/pdf/10.1103/PhysRevPhysEducRes.12.020119
+
+[5] https://www.newscientist.com/article/mg24032031-900-women-in-physics-why-theres-a-problem-and-how-we-can-solve-it/
