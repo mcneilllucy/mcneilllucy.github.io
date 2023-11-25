@@ -61,9 +61,6 @@ topics:
     web_url: https://github.com/mcneilllucy/mcneilllucy.github.io/tree/master/assets/notes
     image_url: /assets/images/homer_thinking.jpg
 
-  - name: JNGEP
-    web_url: https://github.com/mcneilllucy/mcneilllucy.github.io/tree/master/assets/JNGEP
-    image_url: /assets/images/Prism-logo.png
 
   - name: synapsis
     web_url: http://bioconductor.org/packages/release/bioc/html/synapsis.html
