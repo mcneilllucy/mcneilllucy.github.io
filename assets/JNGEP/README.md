@@ -51,7 +51,6 @@ If you are a student or early career researcher currently applying for positions
 |          |            |               | theory          | - industry jobs     |                          |
 |          |            |               |                 | - fellowships       |                          |
 |          |            |               |                 | - project postdocs  |                          |
-|☆☆☆☆☆☆|☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆☆☆☆|
 
 (* = available for undergraduate research project / graduate school / JSPS fellowship supervision consultations)
 
