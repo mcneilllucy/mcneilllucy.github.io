@@ -21,7 +21,6 @@ If you are a student or early career researcher currently applying for positions
 
 | *Name*   | *Position* | *Affiliation* | *Research area* | *experience*        | *contact*                |
 | -------- | ---------- | ------------- | --------------- | ------------------- | ---------------------    |
-|☆☆☆☆☆☆|☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆☆☆☆|
 | Etsuko   | Associate  | Kyoto         | theorerical     | applications and    | itou + -at sign- +       |
 | Itou     | professor  | University    | physics         | interviews for      | yukawa.kyoto-u.ac.jp     |
 |          |            | (YITP)        |                 | - fellowships       |                          |
@@ -38,9 +37,9 @@ If you are a student or early career researcher currently applying for positions
 |          |            |               |                 | (Japan)             |                          |
 |          |            |               |                 | - tenure track      |                          |
 |          |            |               |                 | (Japan)             |                          |
-| -------- | ---------- | ------------- | --------------- | ------------------- | ---------------------    |
-| Jia      | Associate  | Kavli IPMU    | computational   | applications and    | jia.liu + -at sign- +    |
-| Liu      | professor  |               | cosmology       | interviews for      | ipmu.jp                  |
+|☆☆☆☆☆☆|☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆☆☆☆|
+| Jia Liu  | Associate  | Kavli IPMU    | computational   | applications and    | jia.liu + -at sign- +    |
+|          | professor  |               | cosmology       | interviews for      | ipmu.jp                  |
 |          |            |               |                 | - project postdocs  |                          |
 |          |            |               |                 | - fellowships       |                          |
 |          |            |               |                 | (overseas)          |                          |
