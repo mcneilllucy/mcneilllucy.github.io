@@ -23,7 +23,7 @@ If you are a student or early career researcher currently applying for positions
 | -------- | ---------- | ------------- | --------------- | ------------------- | ---------------------    |
 | Etsuko   | Associate  | Kyoto         | theorerical     | applications and    | itou + -at sign- +       |
 | Itou     | professor  | University    | physics         | interviews for      | yukawa.kyoto-u.ac.jp     |
-| ❄ ☃ ∞ ☼  |            | (YITP)        |                 | - fellowships       |                          |
+| ❄ ☃ ∞    |            | (YITP)        |                 | - fellowships       |                          |
 |          |            |               |                 | (in Japan)          |                          |
 |          |            |               |                 | - tenure track      |                          |
 |          |            |               |                 | (in Japan)          |                          |
