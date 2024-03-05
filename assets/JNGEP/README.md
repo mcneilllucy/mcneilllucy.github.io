@@ -56,7 +56,7 @@ If you are a student or early career researcher currently applying for positions
 ❄ = available for hosting SOKENDAI undergraduate project application in respective field
 ☃ = available for hosting domestic undergraduate project in respective field
 ∞ = available for hosting JSPS postdoc fellowship (overseas or domestic) in respective field
-☼ = available for general consultation for guidance about ❄ ✝ ∞
+☼ = available for general consultation for guidance about ❄ ☃ ∞
 
 ## schemes to target gender equality in universities / research facilities
 
