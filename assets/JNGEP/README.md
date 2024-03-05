@@ -21,9 +21,9 @@ If you are a student or early career researcher currently applying for positions
 
 | *Name*   | *Position* | *Affiliation* | *Research area* | *experience*        | *contact*                |
 | -------- | ---------- | ------------- | --------------- | ------------------- | ---------------------    |
-| Lucy     | Postdoc    | Kyoto         | stellar         | applications and    | mcneill + -at sign- +    |
-| McNeill  | fellow     | University    | astrophysics    | interviews for      | tap.scphys.kyoto-u.ac.jp |
-|          |            | (Physics)     | theory          | - industry jobs     |                          |
+| Lucy     | Postdoc    | RIKEN iTHEMS  | stellar         | applications and    | mcneill + -at sign- +    |
+| McNeill  | fellow     |               | astrophysics    | interviews for      | tap.scphys.kyoto-u.ac.jp |
+|          |            |               | theory          | - industry jobs     |                          |
 |          |            |               |                 | - fellowships       |                          |
 |          |            |               |                 | - project postdocs  |                          |
 |☆☆☆☆☆☆|☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆☆☆☆|
@@ -94,6 +94,10 @@ When women and gender diverse physicists are more publicly visible, and high sch
 If you are a high school teacher or museum staff who is interested in facilitating a general-audience lecture in physics by a JNGEP member, please contact the organisers at jngep + -at sign- + proton.me
 
 ## External links
+
+[Society of Women Astronomers] (https://ribf.riken.jp/ag/motizuki/WIAJ/)
+
+[Gender Equality Committee of the Astronomical Society of Japan (ASJ)] https://www.asj.or.jp/jp/activities/committee/diversity/
 
 Kyoto University Gender Equality promotion centre [mentorships](https://www.cwr.kyoto-u.ac.jp/support/consult/mentor/)
 
