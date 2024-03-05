@@ -23,14 +23,14 @@ If you are a student or early career researcher currently applying for positions
 | -------- | ---------- | ------------- | --------------- | ------------------- | ---------------------    |
 | Etsuko   | Associate  | Kyoto         | theorerical     | applications and    | itou + -at sign- +       |
 | Itou     | professor  | University    | physics         | interviews for      | yukawa.kyoto-u.ac.jp     |
-|          |            | (YITP)        |                 | - fellowships       |                          |
+| ❄ ✝ ∞ ☼  |            | (YITP)        |                 | - fellowships       |                          |
 |          |            |               |                 | (in Japan)          |                          |
 |          |            |               |                 | - tenure track      |                          |
 |          |            |               |                 | (in Japan)          |                          |
 |☆☆☆☆☆☆|☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆☆☆☆|
 | Akimasa  | Assistant  | NAOJ          | planet          | applications and    | aki.kataoka.astro +      |
 | Kataoka  | professor  |               | formation       | interviews for      | -at sign- + gmail.com |
-|          |            |               |                 | - project postdocs  |                          |
+| ❄ ∞      |            |               |                 | - project postdocs  |                          |
 |          |            |               |                 | - fellowships       |                          |
 |          |            |               |                 | (overseas)          |                          |
 |          |            |               |                 | - fellowships       |                          |
@@ -39,7 +39,7 @@ If you are a student or early career researcher currently applying for positions
 |          |            |               |                 | (Japan)             |                          |
 |☆☆☆☆☆☆|☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆☆☆☆|
 | Jia Liu  | Associate  | Kavli IPMU    | computational   | applications and    | jia.liu + -at sign- +    |
-|          | professor  |               | cosmology       | interviews for      | ipmu.jp                  |
+| ❄ ✝ ∞ ☼  | professor  |               | cosmology       | interviews for      | ipmu.jp                  |
 |          |            |               |                 | - project postdocs  |                          |
 |          |            |               |                 | - fellowships       |                          |
 |          |            |               |                 | (overseas)          |                          |
@@ -48,11 +48,15 @@ If you are a student or early career researcher currently applying for positions
 |☆☆☆☆☆☆|☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆☆☆☆|
 | Lucy     | Postdoc    | RIKEN iTHEMS  | stellar         | applications and    | lucy.mcneill + -at       |
 | McNeill  | fellow     |               | astrophysics    | interviews for      | sign- + riken.jp         |
-|          |            |               | theory          | - industry jobs     |                          |
+| ❄ ✝ ☼    |            |               | theory          | - industry jobs     |                          |
 |          |            |               |                 | - fellowships       |                          |
 |          |            |               |                 | - project postdocs  |                          |
 
-(* = available for undergraduate research project / graduate school / JSPS fellowship supervision consultations)
+### supervision consultation
+❄ = available for hosting SOKENDAI undergraduate project application in respective field
+✝ = available for hosting domestic undergraduate project in respective field
+∞ = available for hosting JSPS postdoc fellowship (overseas or domestic) in respective field
+☼ = available for general consultation for guidance about ❄ ✝ ∞
 
 ## schemes to target gender equality in universities / research facilities
 
