@@ -20,6 +20,10 @@ If you are a student or early career researcher currently applying for positions
 ### volunteers
 
 | *Name*   | *Position* | *Affiliation* | *Research area* | *experience*        | *contact*                |
+|☆☆☆☆☆☆|☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆☆☆☆|
+|☆☆☆☆☆☆|☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆☆☆☆|
+|☆☆☆☆☆☆|☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆☆☆☆|
+|☆☆☆☆☆☆|☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆☆☆☆|
 | -------- | ---------- | ------------- | --------------- | ------------------- | ---------------------    |
 | Lucy     | Postdoc    | RIKEN iTHEMS  | stellar         | applications and    | mcneill + -at sign- +    |
 | McNeill  | fellow     |               | astrophysics    | interviews for      | tap.scphys.kyoto-u.ac.jp |
