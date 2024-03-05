@@ -21,7 +21,7 @@ If you are a student or early career researcher currently applying for positions
 
 | *Name*   | *Position* | *Affiliation* | *Research area* | *experience*        | *contact*                |
 | -------- | ---------- | ------------- | --------------- | ------------------- | ---------------------    |
-| Etsuko   | Associate  | Kyoto         | theorerical     | applications and    | itou + -at sign- +       |
+| Etsuko   | Associate  | Kyoto         | theoretical     | applications and    | itou + -at sign- +       |
 | Itou     | professor  | University    | physics         | interviews for      | yukawa.kyoto-u.ac.jp     |
 | ❄ ☃ ∞    |            | (YITP)        |                 | - fellowships       |                          |
 |          |            |               |                 | (in Japan)          |                          |
