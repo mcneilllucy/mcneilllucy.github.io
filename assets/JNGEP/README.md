@@ -22,12 +22,33 @@ If you are a student or early career researcher currently applying for positions
 | *Name*   | *Position* | *Affiliation* | *Research area* | *experience*        | *contact*                |
 | -------- | ---------- | ------------- | --------------- | ------------------- | ---------------------    |
 |☆☆☆☆☆☆|☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆☆☆☆|
+| Etsuko   | Associate  | Kyoto         | theorerical     | applications and    | itou + -at sign- +       |
+| Itou     | professor  | University    | physics         | interviews for      | yukawa.kyoto-u.ac.jp     |
+|          |            | (YITP)        |                 | - fellowships       |                          |
+|          |            |               |                 | (in Japan)          |                          |
+|          |            |               |                 | - tenure track      |                          |
+|          |            |               |                 | (in Japan)          |                          |
 |☆☆☆☆☆☆|☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆☆☆☆|
-|☆☆☆☆☆☆|☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆☆☆☆|
-|☆☆☆☆☆☆|☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆☆☆☆|
+| Akimasa  | Assistant  | NAOJ          | planet          | applications and    | aki.kataoka.astro +      |
+| Kataoka  | professor  |               | formation       | interviews for      | -at sign- + gmail.com |
+|          |            |               |                 | - project postdocs  |                          |
+|          |            |               |                 | - fellowships       |                          |
+|          |            |               |                 | (overseas)          |                          |
+|          |            |               |                 | - fellowships       |                          |
+|          |            |               |                 | (Japan)             |                          |
+|          |            |               |                 | - tenure track      |                          |
+|          |            |               |                 | (Japan)             |                          |
 | -------- | ---------- | ------------- | --------------- | ------------------- | ---------------------    |
-| Lucy     | Postdoc    | RIKEN iTHEMS  | stellar         | applications and    | mcneill + -at sign- +    |
-| McNeill  | fellow     |               | astrophysics    | interviews for      | tap.scphys.kyoto-u.ac.jp |
+| Jia      | Associate  | Kavli IPMU    | computational   | applications and    | jia.liu + -at sign- +    |
+| Liu      | professor  |               | cosmology       | interviews for      | ipmu.jp                  |
+|          |            |               |                 | - project postdocs  |                          |
+|          |            |               |                 | - fellowships       |                          |
+|          |            |               |                 | (overseas)          |                          |
+|          |            |               |                 | - tenure track      |                          |
+|          |            |               |                 | (overseas)          |                          |
+|☆☆☆☆☆☆|☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆|☆☆☆☆☆☆☆☆☆☆☆☆|
+| Lucy     | Postdoc    | RIKEN iTHEMS  | stellar         | applications and    | lucy.mcneill + -at       |
+| McNeill  | fellow     |               | astrophysics    | interviews for      | sign- + riken.jp         |
 |          |            |               | theory          | - industry jobs     |                          |
 |          |            |               |                 | - fellowships       |                          |
 |          |            |               |                 | - project postdocs  |                          |
@@ -45,7 +66,7 @@ While Japanese universities and research institutes are already making efforts t
 
 We encourage staff with teaching duties to systematically contact high achieving students in their undergraduate courses who are minorities, about considering applying for undergraduate research projects or graduate school. Or, if applicable, recommend or offer to introduce them to potential supervisors.
 
-The reason is that these students are far less likely to consider graduate school at all (possibly due to the relative social isolation), despite having the equivalently strong grades as their male counterparts.
+The reason is that these students are far less likely to consider graduate school at all (possibly due to the relative social isolation, disproportionate caring responsibilities etc.), despite having the equivalently strong grades as their male counterparts.
 
 ## social events
 
