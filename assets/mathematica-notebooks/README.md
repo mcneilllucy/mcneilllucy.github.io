@@ -10,3 +10,4 @@ At the moment, there is
 - Globular cluster modelling from Antonini and Gieles 2020
 - Modelling tidal heating in double white dwarf binaries from McNeill and Hirai 2025
 - Mass transfer stability for interacting double white dwarf binaries from Nelemans, Portegies Zwart, Verbunt and Yungelson 2001
+- Binary black hole mergers in globular cluster
