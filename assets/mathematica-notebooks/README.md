@@ -11,3 +11,4 @@ At the moment, there is
 - Modelling tidal heating in double white dwarf binaries from McNeill and Hirai 2025
 - Mass transfer stability for interacting double white dwarf binaries from Nelemans, Portegies Zwart, Verbunt and Yungelson 2001
 - Binary black hole mergers in globular clusters
+- rates of double white dwarf mergers in the 100 pc sample
